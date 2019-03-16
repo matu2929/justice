@@ -54,8 +54,7 @@ class Game {
 
 			if (skill.code != 6)
 				this.turn = this.player2;
-		}
-		if (this.turn.id == this.player2.id) {
+		} else {
 			if (isFailed(skill)) {
 				message.channel.send("El movimiento de cintura de <@" + this.player1.id + "> te deja anonadado!!!");
 				this.turn = this.player1;
