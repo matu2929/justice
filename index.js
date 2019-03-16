@@ -46,7 +46,7 @@ var game = null;
 	});
 
 	myEmitter.on('attack', (message, user, skill) => {
-		if (game.isMyTurn(user)) {
+		if (game.isMyTurn(user) && !game.isFinished()) {
 			game.attack(message, user, skill);
 		}
 	});

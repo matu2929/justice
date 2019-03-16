@@ -113,8 +113,8 @@
 	},
 	{
 		"code": 17,
-		"name": "Invu",
-		"description": "Invoca una horda de chilenos y le partieron la wea al enemigo",
+		"name": "Reclutar a Dying",
+		"description": "Dying invoca una horda de chilenos y le partieron la wea al enemigo",
 		"damage": 50,
 		"probability": 20
 	}

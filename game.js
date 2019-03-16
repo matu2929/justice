@@ -20,6 +20,10 @@ class Game {
 		return user.id == this.turn.id;
 	}
 
+	isFinished() {
+		return this.player1.isDead() || this.player2.isDead();
+	}
+
 	getState() {
 		return "<@" + this.player1.id + "> tiene " + this.player1.getLife() + " puntos de vida /n <@" + this.player2.id + "> tiene " + this.player2.getLife() + " puntos de vida";
 	}
