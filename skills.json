@@ -18,14 +18,14 @@
 		"name": "Dedo en el culo",
 		"description": "",
 		"damage": 30,
-		"probability": 40
+		"probability": 50
 	},
 	{
 		"code": 4,
 		"name": "La campana de Flaki",
 		"description": "Le pide a Flaki la campana...",
 		"damage": 100,
-		"probability": 1
+		"probability": 30
 	},
 	{
 		"code": 5,
@@ -39,21 +39,21 @@
 		"name": "Especial de Shino",
 		"description": "Con su gran grito aturde al enemigo",
 		"damage": 5,
-		"probability": 20
+		"probability": 50
 	},
 	{ 
 		"code": 7,
 		"name": "La silla de Fede",
 		"description": "Fue violado por un resorte de la silla",
 		"damage": 5,
-		"probability": 20
+		"probability": 50
 	},
 	{
 		"code": 8,
 		"name": "EL ataque de Juan",
 		"description": "Le pega con el muñon al enemigo",
 		"damage": 15,
-		"probability": 30
+		"probability": 50
 	},
 	{
 		"code": 9,
@@ -67,55 +67,55 @@
 		"name": "La llorona",
 		"description": "Invoca a Jata para ahogar a su oponente",
 		"damage": 40,
-		"probability": 10
+		"probability": 50
 	},
 	{
 		"code": 11,
 		"name": "Hechizo Patito",
 		"description": "Tiro la goma con 38 fallos y se le paro",
 		"damage": 25,
-		"probability": 20
+		"probability": 50
 	},
 	{
 		"code": 12,
 		"name": "Abdusido",
 		"description": "Invoca a Nico Tanta pero se lo llevan los aliens",
 		"damage": 0,
-		"probability": 20
+		"probability": 50
 	},
 	{
 		"code": 13,
 		"name": "Buff de gremio",
 		"description": "Le pide a Phamtom un buffito, pero no tiene los cositos necesarios",
 		"damage": 0,
-		"probability": 20
+		"probability": 50
 	},
 	{
 		"code": 14,
 		"name": "Herrero",
 		"description": "Le pide a Colvil la kutum pero todavia la está encantando",
 		"damage": 0,
-		"probability": 20
+		"probability": 50
 	},
 	{
 		"code": 15,
 		"name": "La ulti de metal",
 		"description": "Ultea, pero un jony salvaje le hizo ks",
 		"damage": 0,
-		"probability": 20
+		"probability": 50
 	},
 	{
 		"code": 16,
 		"name": "Invu",
 		"description": "Invoca a Nico Hyperion para tirar Invu, pero llega tarde",
 		"damage": 100,
-		"probability": 20
+		"probability": 50
 	},
 	{
 		"code": 17,
 		"name": "Reclutar a Dying",
 		"description": "Dying invoca una horda de chilenos y le partieron la wea al enemigo",
 		"damage": 50,
-		"probability": 20
+		"probability": 50
 	}
 ]

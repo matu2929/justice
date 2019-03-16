@@ -11,7 +11,7 @@ class Help {
 	run(bot, message, args) {
 		var msg = "Habilidades: \n";
 		for (var i = 0; i < skills.length; i++) {
-			msg += skills[i].code + " " + skills[i].name + " " + skills[i].damage + " dmg " + skills[i].probability + "%" + "\n";
+			msg += skills[i].code + " " + skills[i].name + " " + skills[i].probability + "%" + "\n";
 		}
 		message.channel.send(msg);
 	}
